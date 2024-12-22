@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("backroundImage2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+img {
+    border-radius: 50%;
+    background-color: white;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(66, 63, 63);
+}
+
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav div.split {
+    float: right;
+}
+
+.downbar {
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.downbar a {
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 1.2rem;
+}
+
+h1,h2{
+    text-align: center;
+    vertical-align: middle;
+}
+
+a.moveRight{
+    text-align: right;
+    vertical-align: middle;
+}
+
