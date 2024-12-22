@@ -1,8 +1,8 @@
 
 package com.yalo.servlet;
 
-import com.yalo.targail4.ToDoList;
-import com.yalo.targail4.TodolistDao;
+import com.yalo.model.ToDoList;
+import com.yalo.model.TodolistDao;
 import java.io.IOException;
 import java.sql.SQLException;
 import java.util.logging.Level;

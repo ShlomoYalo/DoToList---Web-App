@@ -1,4 +1,4 @@
-package com.yalo.targail4;
+package com.yalo.model;
 
 import java.time.LocalDate;
 

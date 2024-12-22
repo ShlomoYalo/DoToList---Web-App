@@ -1,9 +1,9 @@
 package com.yalo.servlet;
 
-import com.yalo.targail4.Task;
-import com.yalo.targail4.TasksDao;
-import com.yalo.targail4.ToDoList;
-import com.yalo.targail4.ToDoListService;
+import com.yalo.model.Task;
+import com.yalo.model.TasksDao;
+import com.yalo.model.ToDoList;
+import com.yalo.model.ToDoListService;
 import java.io.IOException;
 import java.sql.SQLException;
 import java.text.ParseException;

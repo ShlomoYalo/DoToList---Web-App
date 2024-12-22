@@ -1,8 +1,8 @@
 package com.yalo.servlet;
 
-import com.yalo.targail4.Login;
-import com.yalo.targail4.User;
-import com.yalo.targail4.UsersDao;
+import com.yalo.model.Login;
+import com.yalo.model.User;
+import com.yalo.model.UsersDao;
 import java.io.IOException;
 import java.sql.SQLException;
 import java.text.ParseException;
